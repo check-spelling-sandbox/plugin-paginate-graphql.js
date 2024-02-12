@@ -1,0 +1,15 @@
+Autobuild
+backticks
+codeql
+esbuild
+githubactions
+gql
+graphql
+labled
+octokitbot
+opensource
+outdir
+runkit
+terraform
+workflows
+yml
